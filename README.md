@@ -33,3 +33,35 @@
 Будь ласка, створіть `issue` або зробіть `pull request` для внесення змін або виявлення проблем програми.
 
 Дякуємо за використання нашої програми!
+
+# Equipment Repair Program
+
+This program is developed to manage and keep records of equipment repairs. It allows for registration, organization, and monitoring of various equipment repair processes.
+
+## Key Features
+- User registration and authentication
+- Adding, viewing, and deleting order information
+- Tracking repair status and updating data
+- Managing equipment repair services
+
+## Requirements
+To install and use the program, it requires an installed XAMPP or a similar MySQL server.
+
+It is recommended to use Visual Studio for development and code editing.
+
+## Installation and Usage Instructions
+- Clone the repository to your computer.
+- Install and start the database server using XAMPP.
+- Load the MySQL database schema from the database file.
+- Open the project in Visual Studio.
+- Make necessary changes to the database configuration in the config.cs file.
+- Run the program and ensure it functions correctly.
+
+## Future Improvements
+- Adding cost and materials tracking for repairs
+- Improving user interface and adding new functionalities
+
+## Contributions and Collaboration
+Please create issues or pull requests for making changes or identifying program issues.
+
+Thank you for using our program!
