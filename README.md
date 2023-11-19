@@ -34,6 +34,8 @@
 
 Дякуємо за використання нашої програми!
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Equipment Repair Program
 
 This program is developed to manage and keep records of equipment repairs. It allows for registration, organization, and monitoring of various equipment repair processes.
